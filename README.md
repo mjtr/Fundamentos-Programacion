@@ -10,7 +10,7 @@ operaciones sobre los que se asentaría la misma.
 
 Todo este trabajo ha sido desarrollado por mi persona, y he utilizado Java 7 y Java 8 para la realización del mismo.
 
-Las relaciones entre las clases se muestra de forma clara en la imagen "Relaciones-clases-png".
+Las relaciones entre las clases se muestra de forma clara en la imagen "Relaciones-clases.png".
 
 ***Para ejecutar el trabajo basta con importar, en el entorno de desarrollo de Eclipse por ejemplo, la carpeta "FP-ManuelTorres" , y correr los tests que hay en el paquete "tipos" o "utiles"  ***
 
